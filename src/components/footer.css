@@ -1,0 +1,29 @@
+ul li {
+    list-style: none;
+}
+
+.footer_colums{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    padding: 0px;
+}
+
+.colum1{
+    padding: 0px;
+    margin-left: 0px;
+}
+
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #efefef;
+}
+
+.iconWala{
+    size: 100px;
+}
+
+.footer2{
+    display: flex;
+}
